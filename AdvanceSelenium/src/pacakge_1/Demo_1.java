@@ -8,6 +8,6 @@ public class Demo_1
 @Test
 public void tuesday()
 {
-	Reporter.log("hello",true);
+	//Reporter.log("hello",true);
 }
 }
